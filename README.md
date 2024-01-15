@@ -36,20 +36,15 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VS Code, AWS
 - **Language:** C,C++,Java
-- 
-## 💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikharmall&layout=compact&theme=radical)](https://github.com/Shikharmall)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikharmall&count_private=true&show_icons=true&theme=radical)](https://github.com/Shikharmall)
 
 <!-- ## 🚀 Coding Platforms
 
 - [LeetCode Profile](https://leetcode.com/your_username/)
 - [HackerRank Profile](https://www.hackerrank.com/your_username/)
 - [CodeSignal Profile](https://codesignal.com/profile/your_username/) -->
-
-## 📈 GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikharmall&count_private=true&show_icons=true&theme=radical)](https://github.com/Shikharmall)
 
 ## 📫 Let's Connect
 
