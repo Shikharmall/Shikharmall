@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...-->
 
 
-# 👨‍💻 [Your Name]
+# 👨‍💻 Shikhar Mall
 
 ## 🚀 About Me
 
@@ -23,15 +23,15 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 
 ## 💼 Work Experience
 
-### Datadays (1 Year)
-#### Full Stack Developer | [Joining Date] - [Leaving Date]
+### Datadays
+#### Full Stack Developer | 21 Aug, 2023 - 5 Jan ,2024
 
 - Spearheaded the development of [mention a significant project or achievement].
 - Collaborated with cross-functional teams to ensure seamless integration of front-end and back-end components.
 - Utilized MERN stack to create robust and scalable applications.
 
 ### Cillyfox (Current)
-#### Web Developer | [Joining Date] - Present
+#### Software Engineering Intern | 1 Mar, 2023 - 31 Aug, 2023
 
 - Leveraging React for building dynamic and interactive user interfaces.
 - Implementing server-side logic using PHP and Laravel for efficient data processing.
