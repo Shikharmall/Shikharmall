@@ -26,7 +26,7 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 ### Datadays
 #### Full Stack Developer | 21 Aug, 2023 - 5 Jan ,2024
 
-### Cillyfox (Current)
+### Cillyfox
 #### Software Engineering Intern | 1 Mar, 2023 - 31 Aug, 2023
 
 ## 🛠️ Tech Stack
@@ -40,17 +40,6 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 ## 💻 Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikharmall&layout=compact&theme=radical)](https://github.com/Shikharmall)
-
-Here are the programming languages I frequently use in my projects:
-
-1. JavaScript
-2. Python
-3. PHP
-4. Java
-5. TypeScript
-6. HTML/CSS
-
-The language statistics are based on my GitHub repositories and reflect my coding preferences and expertise.
 
 <!-- ## 🚀 Coding Platforms
 
