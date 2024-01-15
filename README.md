@@ -67,7 +67,7 @@ issues in development process.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&count_private=true&show_icons=true&theme=radical)](https://github.com/Shikharmall)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikharmall&count_private=true&show_icons=true&theme=radical)](https://github.com/Shikharmall)
 
 ## 📫 Let's Connect
 
