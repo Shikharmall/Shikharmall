@@ -26,20 +26,24 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 ### Datadays
 #### Full Stack Developer | 21 Aug, 2023 - 5 Jan ,2024
 
-- Spearheaded the development of [mention a significant project or achievement].
-- Collaborated with cross-functional teams to ensure seamless integration of front-end and back-end components.
-- Utilized MERN stack to create robust and scalable applications.
+- Implemented Node.js and Express.js to streamline server-side logic, enhancing performance and scalability of web
+applications; optimized API design, data modeling, and Mongo DB database management to achieve a 40% reduction in
+response time, improving user experience and increasing customer satisfaction.
+- Contributing to the development of server-side logic using Node.js and Express.js.Working on API design, data modeling,
+and database management with Mongo DB. Also developed frontend-side logics using React and Redux.
+- Assisting in identifying and resolving bugs and issues throughout the development process. Conducting thorough testing
+of web applications to ensure functionality and performance.
 
 ### Cillyfox (Current)
 #### Software Engineering Intern | 1 Mar, 2023 - 31 Aug, 2023
 
-• Worked on the project named “MJK”, using languages JavaScript and PHP’s framework Laravel.
-• Created various components using React and Redux.
-• Developed a robust RESTful API using Laravel to seamlessly connect the frontend and mobile application; reduced
+- Worked on the project named “MJK”, using languages JavaScript and PHP’s framework Laravel.
+- Created various components using React and Redux.
+- Developed a robust RESTful API using Laravel to seamlessly connect the frontend and mobile application; reduced
 response time by 40% resulting in improved user experience and increased customer satisfaction.
-• Led a cross-functional team of 3 members, overseeing project execution from ideation to delivery; achieved 20% reduction
+- Led a cross-functional team of 3 members, overseeing project execution from ideation to delivery; achieved 20% reduction
 in development timeline and delivered high-quality product on schedule.
-• Conducted thorough testing of web applications to ensure functionality and performance. Also resolved the bugs and
+- Conducted thorough testing of web applications to ensure functionality and performance. Also resolved the bugs and
 issues in development process.
 
 ## 🛠️ Tech Stack
