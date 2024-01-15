@@ -45,6 +45,43 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 - [LeetCode Profile](https://leetcode.com/your_username/)
 - [HackerRank Profile](https://www.hackerrank.com/your_username/)
 - [CodeSignal Profile](https://codesignal.com/profile/your_username/) -->
+## 🛠️ Languages and Tools
+
+### Programming Languages
+- ![JavaScript](https://example.com/javascript-logo.svg) JavaScript (Node.js, React)
+- ![Python](https://example.com/python-logo.svg) Python
+- ![PHP](https://example.com/php-logo.svg) PHP
+- ![Java](https://example.com/java-logo.svg) Java
+- ![TypeScript](https://example.com/typescript-logo.svg) TypeScript
+- ![HTML/CSS](https://example.com/html-css-logo.svg) HTML/CSS
+
+### Databases
+- ![MongoDB](https://example.com/mongodb-logo.svg) MongoDB
+- ![MySQL](https://example.com/mysql-logo.svg) MySQL
+
+### Frameworks and Libraries
+- ![Express.js](https://example.com/express-logo.svg) Express.js
+- ![Laravel](https://example.com/laravel-logo.svg) Laravel
+- ![React.js](https://example.com/react-logo.svg) React.js
+- ![Flask](https://example.com/flask-logo.svg) Flask
+
+### Version Control
+- ![Git](https://example.com/git-logo.svg) Git
+
+### Tools
+- ![Visual Studio Code](https://example.com/vscode-logo.svg) Visual Studio Code
+- ![Docker](https://example.com/docker-logo.svg) Docker
+
+### Cloud Platforms
+- ![AWS](https://example.com/aws-logo.svg) Amazon Web Services (AWS)
+
+### Other
+- ![RESTful APIs](https://example.com/rest-logo.svg) RESTful APIs
+- ![GitLab CI/CD](https://example.com/gitlab-logo.svg) GitLab CI/CD
+- ![Jira](https://example.com/jira-logo.svg) Jira
+
+This is a snapshot of the languages and tools I am proficient in. The list may not be exhaustive, and I am always exploring and learning new technologies to enhance my skill set.
+
 
 ## 📫 Let's Connect
 
