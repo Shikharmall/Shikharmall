@@ -72,7 +72,7 @@ issues in development process.
 ## 📫 Let's Connect
 
 - LinkedIn: [Shikhar Mall](https://www.linkedin.com/in/shikhar-mall-161b05230/)
-- Twitter: [@itsShikharMall](https://twitter.com/your_twitter_handle)](https://twitter.com/itsShikharMall)
+- Twitter: [@itsShikharMall](https://twitter.com/itsShikharMall)
 
 Feel free to reach out for collaboration or just to say hi! 😊
 
