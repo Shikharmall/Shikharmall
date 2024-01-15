@@ -59,11 +59,11 @@ issues in development process.
 - Successfully led the development of [mention a project] resulting in [specific achievement or impact].
 - Consistently solved coding challenges on platforms like LeetCode, HackerRank, and CodeSignal.
 
-## 🚀 Coding Platforms
+<!-- ## 🚀 Coding Platforms
 
 - [LeetCode Profile](https://leetcode.com/your_username/)
 - [HackerRank Profile](https://www.hackerrank.com/your_username/)
-- [CodeSignal Profile](https://codesignal.com/profile/your_username/)
+- [CodeSignal Profile](https://codesignal.com/profile/your_username/) -->
 
 ## 📈 GitHub Stats
 
@@ -72,7 +72,7 @@ issues in development process.
 ## 📫 Let's Connect
 
 - LinkedIn: [Shikhar Mall](https://www.linkedin.com/in/shikhar-mall-161b05230/)
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
+- Twitter: [@itsShikharMall](https://twitter.com/your_twitter_handle)](https://twitter.com/itsShikharMall)
 
 Feel free to reach out for collaboration or just to say hi! 😊
 
