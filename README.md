@@ -51,13 +51,15 @@ issues in development process.
 - **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Vite
 - **Backend:** Node.js, Express.js, PHP, Laravel
 - **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Docker, AWS
+- **Tools:** Git, VS Code, AWS
 - **Language:** C,C++,Java
 
 ## 🚀 Achievements
 
-- Successfully led the development of [mention a project] resulting in [specific achievement or impact].
-- Consistently solved coding challenges on platforms like LeetCode, HackerRank, and CodeSignal.
+- **Led the successful development of MJK & Commune project:** Orchestrated the end-to-end development lifecycle, ensuring seamless collaboration between cross-functional teams. This transformative project has significantly improved operational efficiency for our clients, allowing them to leverage cutting-edge solutions for [specific business processes or goals]. The project is now operating smoothly in production, and clients are utilizing it with great efficiency.
+
+- **Consistently excelled in coding challenges:** Demonstrated proficiency in problem-solving on various platforms, including LeetCode, HackerRank, and CodeSignal. Achieved a consistent track record of tackling complex algorithms and data structures with precision.
+
 
 <!-- ## 🚀 Coding Platforms
 
