@@ -61,7 +61,7 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your_username/](https://www.linkedin.com/in/shikhar-mall-161b05230/))
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shikhar-mall-161b05230/)
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 
 Feel free to reach out for collaboration or just to say hi! 😊
