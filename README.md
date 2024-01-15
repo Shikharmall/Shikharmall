@@ -33,9 +33,14 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 ### Cillyfox (Current)
 #### Software Engineering Intern | 1 Mar, 2023 - 31 Aug, 2023
 
-- Leveraging React for building dynamic and interactive user interfaces.
-- Implementing server-side logic using PHP and Laravel for efficient data processing.
-- Collaborating with the team to deliver high-quality and performant web solutions.
+• Worked on the project named “MJK”, using languages JavaScript and PHP’s framework Laravel.
+• Created various components using React and Redux.
+• Developed a robust RESTful API using Laravel to seamlessly connect the frontend and mobile application; reduced
+response time by 40% resulting in improved user experience and increased customer satisfaction.
+• Led a cross-functional team of 3 members, overseeing project execution from ideation to delivery; achieved 20% reduction
+in development timeline and delivered high-quality product on schedule.
+• Conducted thorough testing of web applications to ensure functionality and performance. Also resolved the bugs and
+issues in development process.
 
 ## 🛠️ Tech Stack
 
