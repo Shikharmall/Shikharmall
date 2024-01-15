@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-Passionate and result-driven Full Stack Developer with 1 year of experience at Datadays, specializing in MERN stack development. Adept at creating scalable and responsive web applications. Proficient in React, PHP, and Laravel. Enthusiastic about solving coding challenges on various platforms.
+Passionate and result-driven Full Stack Developer with 1 year of experience at Datadays and Cillyfox, specializing in MERN stack development. Adept at creating scalable and responsive web applications. Proficient in React, PHP, and Laravel. Enthusiastic about solving coding challenges on various platforms.
 
 ## 💼 Work Experience
 
@@ -48,10 +48,11 @@ issues in development process.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, HTML, CSS, JavaScript
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Vite
 - **Backend:** Node.js, Express.js, PHP, Laravel
 - **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code, Docker
+- **Tools:** Git, VS Code, Docker, AWS
+- **Language:** C,C++,Java
 
 ## 🚀 Achievements
 
@@ -66,7 +67,7 @@ issues in development process.
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&count_private=true&show_icons=true&theme=radical)](https://github.com/your_username)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&count_private=true&show_icons=true&theme=radical)](https://github.com/Shikharmall)
 
 ## 📫 Let's Connect
 
