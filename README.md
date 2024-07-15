@@ -31,11 +31,11 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Vite
-- **Backend:** Node.js, Express.js, PHP, Laravel
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Vite, TypeScript
+- **Backend:** Node.js, Express.js, Laravel
 - **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code, AWS
-- **Language:** C,C++,Java
+- **Tools:** Git, VS Code
+- **Language:** C++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shikharmall&layout=compact&theme=radical)](https://github.com/Shikharmall)
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shikharmall&count_private=true&show_icons=true&theme=radical)](https://github.com/Shikharmall)
