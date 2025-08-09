@@ -23,13 +23,13 @@ Passionate and result-driven Full Stack Developer with 2 year of experience at D
 
 ## 💼 Work Experience
 
-### Descan Corporation
+### Descan Corporation (React JS, React Native TypeScript, Node JS)
 - Full Stack Developer | 1 April, 2024 - 1 April, 2025
 
-### Datadays
+### Datadays (React JS, Node JS)
 - Full Stack Developer | 21 Aug, 2023 - 5 Jan, 2024
 
-### Cillyfox
+### Cillyfox (React JS, Laravel)
 - Software Engineering Intern | 1 Mar, 2023 - 31 Aug, 2023
 
 ## 🛠️ Tech Stack
