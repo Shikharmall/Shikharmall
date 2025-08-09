@@ -19,15 +19,15 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-Passionate and result-driven Full Stack Developer with 1 year of experience at Datadays and Cillyfox, specializing in MERN stack development. Adept at creating scalable and responsive web applications. Proficient in React, PHP, and Laravel. Enthusiastic about solving coding challenges on various platforms.
+Passionate and result-driven Full Stack Developer with 2 year of experience at Descan Corporation, Datadays and Cillyfox, specializing in MERN stack development. Adept at creating scalable and responsive web applications. Proficient in React, PHP, and Laravel. Enthusiastic about solving coding challenges on various platforms.
 
 ## 💼 Work Experience
 
 ### Descan Corporation
-- Full Stack Developer | 1 April, 2024 - 1 April ,2025
+- Full Stack Developer | 1 April, 2024 - 1 April, 2025
 
 ### Datadays
-- Full Stack Developer | 21 Aug, 2023 - 5 Jan ,2024
+- Full Stack Developer | 21 Aug, 2023 - 5 Jan, 2024
 
 ### Cillyfox
 - Software Engineering Intern | 1 Mar, 2023 - 31 Aug, 2023
