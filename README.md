@@ -23,7 +23,7 @@ Passionate and result-driven Full Stack Developer with 2 year of experience at D
 
 ## 💼 Work Experience
 
-### Descan Corporation (React JS, React Native TypeScript, Node JS)
+### Descan Corporation (React JS, React Native, TypeScript, Node JS)
 - Full Stack Developer | 1 April, 2024 - 1 April, 2025
 
 ### Datadays (React JS, Node JS)
