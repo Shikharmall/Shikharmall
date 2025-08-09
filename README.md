@@ -34,7 +34,7 @@ Passionate and result-driven Full Stack Developer with 2 year of experience at D
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Vite, TypeScript, React native
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Vite, TypeScript, React Native
 - **Application:** React native
 - **Backend:** Node.js, Express.js, Laravel
 - **Database:** MongoDB, MySQL
