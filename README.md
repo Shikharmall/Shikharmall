@@ -23,6 +23,9 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 
 ## 💼 Work Experience
 
+### Descan Corporation
+- Full Stack Developer | 1 April, 2024 - 1 April ,2025
+
 ### Datadays
 - Full Stack Developer | 21 Aug, 2023 - 5 Jan ,2024
 
@@ -31,7 +34,8 @@ Passionate and result-driven Full Stack Developer with 1 year of experience at D
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Vite, TypeScript
+- **Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS, Vite, TypeScript, React native
+- **Application:** React native
 - **Backend:** Node.js, Express.js, Laravel
 - **Database:** MongoDB, MySQL
 - **Tools:** Git, VS Code
